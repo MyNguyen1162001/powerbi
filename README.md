@@ -1,0 +1,1 @@
+The Sales-Dashboard-PowerBI project is an interactive and dynamic sales report created using Microsoft Power BI. This project aims to provide a comprehensive and visually appealing dashboard that offers valuable insights into sales performance, trends, and key metrics.
